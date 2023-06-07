@@ -46,7 +46,9 @@ Go to azure>Virtual machines>Create>Create virtual machine. Once there, (which i
 <img src="https://i.imgur.com/AYSCmF0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click the VM, once inside copy "public IP address" then go to the windows search bar and type "remote desk top connection". After Paste "public IP adress" onto the bar in "RDT" 
+Click the VM, once inside copy "public IP address" then go to the windows search bar and type "remote desk top connection". After Paste "public IP adress" onto the bar in "RDT". Then click "connect".
+<p>
+  Log in with the username and password created when VM was made.
 </p>
 <br />
 
@@ -54,6 +56,6 @@ Click the VM, once inside copy "public IP address" then go to the windows search
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once in VM go to windows Search>control panel>Programs>
 </p>
 <br />
