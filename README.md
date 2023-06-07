@@ -33,6 +33,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Go to azure>Virtual machines>Create>Create virtual machine. Once there, (which is Picture above) create a new research group to put your VM> Name VM> make username and password. Go to image drop down and select windows 10 pro. Then go the the "size" drop down and select Standard with 2 VCPU and 16 memory. Furthemore, check box at the bottom left of the page and then click "review + Create" and then "create" at the bottom left. With that, virtual machine will be created.
+  
+ 
+  
+  Click on the search bar>Virtual Machines> the select the VM that was created
 </p>
 <br />
 
