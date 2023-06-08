@@ -56,6 +56,31 @@ Click the VM, once inside copy "public IP address" then go to the windows search
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once in VM go to windows Search>control panel>Programs>
+dfsfdffdgsdftghfsgfrtshgbtsdtbdrthrdhbdbthdrghdfg
 </p>
 <br />
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+gfdgfdgrdgfggdfgrdgf
+  </p>
+<br />
+
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ dfhghtghftgghtfghtfghtfghtfghtf
+  </p>
+<br />
+
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ grfdgfrdfgrdfgrdfgrdfgrdfgrtd
+  </p>
+<br />
+
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
