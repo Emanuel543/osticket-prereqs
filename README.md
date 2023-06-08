@@ -53,34 +53,24 @@ Click the VM, once inside copy "public IP address" then go to the windows search
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/VV1jTG2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dfsfdffdgsdftghfsgfrtshgbtsdtbdrthrdhbdbthdrghdfg
+Download "MySQL"
 </p>
 <br />
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JC0rYTK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-gfdgfdgrdgfggdfgrdgf
+Open IIS manager. make sure to open it as an administrator.>Double click "PHP Manager"> create a new PHP
   </p>
 <br />
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/0ize2bo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- dfhghtghftgghtfghtfghtfghtfghtf
+Download osTicket
   </p>
 <br />
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
- grfdgfrdfgrdfgrdfgrdfgrdfgrtd
-  </p>
-<br />
-
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
